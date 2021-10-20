@@ -1,2 +1,3 @@
 # deprecated
-deprecated packages
+
+This repository is the home for all deprecated packages.
